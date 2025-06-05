@@ -97,5 +97,3 @@ This project is for educational purposes and personal learning.
 Tania Khatun
 Student at NSTI(W), Kolkata
 Pursuing AI Microdegree with a specialization in Python & Database Applications.
-
-Let me know if you want me to generate this file for download or help you upload the project to GitHub.
