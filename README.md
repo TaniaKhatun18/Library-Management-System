@@ -97,3 +97,8 @@ This project is for educational purposes and personal learning.
 Tania Khatun
 Student at NSTI(W), Kolkata
 Pursuing AI Microdegree with a specialization in Python & Database Applications.
+
+📬 Contact
+Feel free to connect or give feedback!
+📧 Email: sania.khatun18022006@gmail.com
+🌐 LinkedIn: : www.linkedin.com/in/tania-khatun-024a30324
